@@ -1,7 +1,6 @@
-# DSA
-A well-organized Data Structures &amp; Algorithms repository covering fundamental to advanced problems, implemented in Java with optimized solutions and complexity analysis. Designed for interview preparation and problem-solving mastery.
 # 🚀 Data Structures & Algorithms Mastery (Java)
 
+A well-organized Data Structures &amp; Algorithms repository covering fundamental to advanced problems, implemented in Java with optimized solutions and complexity analysis. Designed for interview preparation and problem-solving mastery.
 <p align="center">
   <b>Clean Code • Optimized Logic • Interview Ready • Problem Solving Mindset</b>
 </p>
