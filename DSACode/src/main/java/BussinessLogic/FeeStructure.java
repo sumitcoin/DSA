@@ -1,4 +1,4 @@
-package bean;
+package BussinessLogic;
 
 public class FeeStructure {
     private String component;
