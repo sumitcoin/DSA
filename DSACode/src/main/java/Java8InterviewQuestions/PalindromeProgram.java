@@ -11,9 +11,9 @@ public class PalindromeProgram {
                 .noneMatch(i -> str.charAt(i) != str.charAt(str.length() - i -1));
 
         if(isItPalindrome) {
-            System.out.println("Palindrome");
+            System.out.println(str+" Palindrome");
         } else {
-            System.out.println("Not a Palindrome");
+            System.out.println(str+" Not a Palindrome");
         }
     }
 }
