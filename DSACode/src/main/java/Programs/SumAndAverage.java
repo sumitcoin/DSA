@@ -11,8 +11,8 @@ public class SumAndAverage {
 
         Double average = Arrays.stream(intList).average().getAsDouble();
 
-        System.out.println(sum);
+        System.out.println("Sum of an Array ::"+sum);
 
-        System.out.println(average);
+        System.out.println("Average of an Array::"+average);
     }
 }
