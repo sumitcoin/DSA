@@ -11,6 +11,6 @@ public class CountStringStartingWithSpecificLetter {
 
         List<String> filterStringList = strList.stream().filter(a -> a.startsWith("A")).collect(Collectors.toList());
 
-        System.out.println(filterStringList);
+        System.out.println("Filter String::"+filterStringList);
     }
 }
