@@ -4,6 +4,7 @@ import java.util.Arrays;
 import java.util.List;
 import java.util.stream.Collectors;
 
+// Reverse String using Java 8
 public class ReverseString {
     public static void main(String[] args) {
         String str = "This is Java Program by SUMITCOIN";
