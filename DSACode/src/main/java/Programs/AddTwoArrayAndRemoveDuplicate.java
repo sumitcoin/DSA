@@ -6,6 +6,7 @@ import java.util.List;
 import java.util.stream.Collectors;
 import java.util.stream.Stream;
 
+// Add two array and remove duplicate
 public class AddTwoArrayAndRemoveDuplicate {
     public static void main(String[] args) {
         List<Integer> arr1 = Arrays.asList(3,5,6,7,8,3,9);
