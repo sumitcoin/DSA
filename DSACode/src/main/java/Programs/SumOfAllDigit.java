@@ -3,6 +3,7 @@ package Programs;
 import java.util.stream.Collectors;
 import java.util.stream.Stream;
 
+//
 public class SumOfAllDigit {
     public static void main(String[] args) {
         Integer num = 12345;
