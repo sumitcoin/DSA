@@ -3,7 +3,7 @@ package Programs;
 import java.util.stream.Collectors;
 import java.util.stream.Stream;
 
-// Sum of All given digit
+// Sum of All given digit for an Integer
 public class SumOfAllDigit {
     public static void main(String[] args) {
         Integer num = 12345;
